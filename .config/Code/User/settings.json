@@ -1,7 +1,7 @@
 {
     "workbench.colorTheme": "NotNull Dark",
     "zig.path": "/usr/local/zig/zig",
-    "zig.zls.path": "/home/murillovaz/.config/Code/User/globalStorage/ziglang.vscode-zig/zls_install/zls",
+    "zig.zls.path": "/homellovaz/.config/Code/User/globalStorage/ziglang.vscode-zig/zls_install/zls",
     "zig.initialSetupDone": true,
     "zig.zls.enableInlayHints": false,
     "explorer.confirmDragAndDrop": false,
